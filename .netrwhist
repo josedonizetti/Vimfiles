@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/Users/donizetti/Workspace/ruby/projects/depot'
+let g:netrw_dirhist_2='/Users/donizetti/Workspace/ruby/projects/depot/app'
+let g:netrw_dirhist_3='/Users/donizetti/Workspace/ruby/projects/depot/app/views'
+let g:netrw_dirhist_4='/Users/donizetti/Workspace/ruby/projects/depot/app/views/products'
+let g:netrw_dirhist_5='/Users/donizetti/Workspace/ruby/projects/depot'
+let g:netrw_dirhist_6='/Users/donizetti/Workspace/ruby/projects/depot/public'
+let g:netrw_dirhist_7='/Users/donizetti/Workspace/ruby/projects/depot/public/images'
+let g:netrw_dirhist_8='/Users/donizetti/Workspace/scheme/projects/teach-yourself-scheme'
+let g:netrw_dirhist_9='/Users/donizetti/Workspace/scheme/projects/spoj/quem-vai-ser-reprovado'
