@@ -1,7 +1,9 @@
+
+"must come first because change others options
+set nocompatible
+
 call pathogen#runtime_append_all_bundles()
 call pathogen#helptags()
-
-set nocompatible
 
 set autoindent
 
